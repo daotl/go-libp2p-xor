@@ -2,9 +2,9 @@ module github.com/daotl/go-libp2p-xor
 
 go 1.18
 
-require github.com/daotl/go-libp2p-kbucket v0.5.0
 
 require (
+    github.com/daotl/go-libp2p-kbucket v0.5.0
 	github.com/decred/dcrd/dcrec/secp256k1/v4 v4.1.0 // indirect
 	github.com/gogo/protobuf v1.3.2 // indirect
 	github.com/ipfs/go-cid v0.2.0 // indirect
